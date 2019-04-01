@@ -1,0 +1,18 @@
+.nav{
+  background-color: #5c5c5a;
+  height: auto;
+  position: fixed;
+  
+  width: 100%;
+ 
+}
+.col-2{
+  height: 70px;
+}
+.col-3{
+  margin-right: 0;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
